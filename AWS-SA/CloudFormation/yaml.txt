@@ -1,0 +1,20 @@
+Yaml: Yet another mark up language
+- it has key value pairs
+- nested objects
+- arrays: 
+    to represent an array start with "-"
+    eg. 
+        products:
+        - sku: ABCD
+          quantity: 4
+          description: Basketball
+        - sku: BACD
+          quantity: 5
+          description: Super Hoop
+- multi line string value :
+    eg.
+        address:
+            lines: | #here | means multiline string
+                31/2 kol-50
+- comment: use # to write comment
+

@@ -1,0 +1,12 @@
+NOTE:
+1. CloudFormation is Infra As Code.
+2. It is declarative way of programming.
+3. Every resource created will be tagged, which helps in identifying cost.
+4. The code can be versioned and controlled e.g using Git
+5. It increases productivity:
+	a. ability to create and destroy resources in a go
+	b. automated generation of Diagram for your template
+	c. leverage existing templates on the web
+
+
+PLEASE DELETE THE CLOUDFORMATION STACKS AFTER TGE LECTURES
